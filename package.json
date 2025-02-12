@@ -1,0 +1,23 @@
+{
+  "name": "palavraalegre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andremagaldi/Palavraalegre.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andremagaldi/Palavraalegre/issues"
+  },
+  "homepage": "https://github.com/Andremagaldi/Palavraalegre#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^15.1.7"
+  }
+}
